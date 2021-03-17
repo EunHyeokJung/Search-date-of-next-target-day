@@ -42,7 +42,6 @@ function get(target_date_str) {
         d.setDate(new Date().getDate() + target_day);
 
         return d.getYYYYMMDD();
-
     } else if (today < target_day) {
 
         var d = new Date();
