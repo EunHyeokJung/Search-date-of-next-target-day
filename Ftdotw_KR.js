@@ -2,7 +2,7 @@ const scriptName = "Finding_the_day_of_the_week.js";
 
 
 /***************
-KOR ver
+ * KOR ver
 
  * 타겟으로 정한 요일을 해당 날짜를 기준으로 다음으로 가장 빠른 날짜를 YYYYMMDD형으로 반환합니다.
  * 수요일에 "월"을 인자로 요청할 경우, 다음주 월요일 날짜를 반환합니다.
