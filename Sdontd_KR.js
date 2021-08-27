@@ -12,6 +12,7 @@ const scriptName = "Search-date-of-next-target-day.js";
 ****************/
 
 
+
 Date.prototype.getYYYYMMDD = function() {
 
     var MM = this.getMonth() + 1;
