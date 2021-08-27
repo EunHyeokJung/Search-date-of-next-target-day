@@ -1,6 +1,6 @@
 ##Search date of next target day
 
-이 함수는 함수 실행일을 기준으로 요구하는 요일의 다음 날짜를 YYYYMMDD 형식으로 반환합니다.
+이 함수는 함수 실행일을 기준으로 요구하는 요일의 다음 날짜를 YYYYMMDD 형식으로 반환합니다.  
 This function returns the date(YYYYMMDD) of next target day.
 
 ---
