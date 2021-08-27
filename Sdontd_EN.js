@@ -1,4 +1,4 @@
-const scriptName = "Finding_the_day_of_the_week.js";
+const scriptName = "Search-date-of-next-target-day.js";
 
 
 /****************
